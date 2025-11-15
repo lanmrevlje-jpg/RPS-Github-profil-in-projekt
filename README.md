@@ -1,3 +1,3 @@
 # Opis
 to je test
-ne vem kaj pocnem😎
+ne vem kaj počnem😎
