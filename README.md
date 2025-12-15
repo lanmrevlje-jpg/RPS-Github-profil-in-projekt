@@ -6,5 +6,5 @@ Kaj sem se naučil:
 -Urejanje README
 
 # Povezave
-<hr>
+
 Kviz: https://github.com/lanmrevlje-jpg/Kviz 
